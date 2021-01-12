@@ -92,7 +92,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    //self.window.rootViewController =[[MapViewController alloc] init];
     self.window.rootViewController =[[WelcomeViewController alloc] init];
     
     [CjwFun initShare];
