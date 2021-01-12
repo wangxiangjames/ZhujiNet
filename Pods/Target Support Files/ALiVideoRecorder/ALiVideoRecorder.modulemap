@@ -1,0 +1,6 @@
+framework module ALiVideoRecorder {
+  umbrella header "ALiVideoRecorder-umbrella.h"
+
+  export *
+  module * { export * }
+}
